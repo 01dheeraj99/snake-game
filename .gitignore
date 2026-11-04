@@ -1,0 +1,7 @@
+# Compiled Java class files
+*.class
+
+# Temporary or intermediate files
+*.webp
+*.mp3
+
